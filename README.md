@@ -42,7 +42,7 @@ Once you're connected to the bash shell in the container, change directory to th
 
 From here, you can run:
 
-* `./start-redis.sh` - starts the Redis server in the background, with log output to `redis.out`.
+* `./start-redis.sh` - starts the Redis server in the background, with log output to `/var/log/redis.out`.
 * `./redis-connect.sh` - uses `redis-cli` to make a secure connection to the Redis server.
 * `./stop-redis.sh` - stops the Redis server process.
 
