@@ -34,6 +34,8 @@ The folder "3.6-TLS-Basic" accompanies the week 3 video "Encrypting Connections"
 
 Use the `build.sh` script to build the container, and the `login.sh` script to start it and connect via a bash shell.
 
+**Note:** You'll first need to build the base container that this depends on (see "Installing Redis Securely" above).
+
 Once you're connected to the bash shell in the container, change directory to the `ru330` folder:
 
 ```bash
@@ -52,6 +54,8 @@ From here, you can run:
 The folder "3.7-TLS-Advanced" accompanies the week 3 video "TLS 1.3, Mutual Authentication and Advanced TLS Configuration".  It contains a Docker file and scripts showing a way to make a more advanced secure connection to Redis.
 
 Use the `build.sh` script to build the container, and the `login.sh` script to start is and connect via a bash shell.
+
+**Note:** You'll first need to build the base container that this depends on (see "Installing Redis Securely" above).
 
 Once you're connected to the bash shell in the container, change directory to the `ru330` folder:
 
