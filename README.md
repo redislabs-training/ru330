@@ -72,3 +72,7 @@ From here, you can run:
 ## Need Help?
 
 If you need help with the resources in this repository, join us on the [Redis University Discord](https://discord.gg/4StRkuH) server where we have a dedicated channel `#ru330-redis-security` for this course.
+
+### Subscribe to our YouTube Channel
+
+We'd love for you to [check out our YouTube channel](https://youtube.com/redislabs), and subscribe if you want to see more Redis videos!
