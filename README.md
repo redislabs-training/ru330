@@ -1,6 +1,6 @@
 # RU330 Redis Security
 
-This repository contains example Docker files to be used with the [RU330 Redis Security](https://university.redislabs.com/courses/ru330/) course at Redis University.
+This repository contains example Docker files to be used with the [RU330 Redis Security](https://university.redis.com/courses/ru330/) course at Redis University.
 
 ## Prerequisites
 
@@ -75,4 +75,4 @@ If you need help with the resources in this repository, join us on the [Redis Un
 
 ### Subscribe to our YouTube Channel
 
-We'd love for you to [check out our YouTube channel](https://youtube.com/redislabs), and subscribe if you want to see more Redis videos!
+We'd love for you to [check out our YouTube channel](https://youtube.com/redisinc), and subscribe if you want to see more Redis videos!
