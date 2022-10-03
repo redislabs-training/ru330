@@ -75,4 +75,4 @@ If you need help with the resources in this repository, join us on the [Redis Un
 
 ### Subscribe to our YouTube Channel / Follow us on Twitch
 
-We'd love for you to [check out our YouTube channel](https://youtube.com/redisinc), and subscribe if you want to see more Redis videos!  We also stream regularly on our [Twitch.tv channel](https://www.twitch.tv/redisinc) - follow us to be notified when we're live.
+We'd love for you to [check out our YouTube channel](https://youtube.com/redisinc), and subscribe if you want to see more Redis videos!  We also stream regularly on our [Twitch.tv channel](https://www.twitch.tv/redisinc) - follow us or check out our [live streaming schedule](https://developer.redis.com/redis-live/) to be notified when we're live.
